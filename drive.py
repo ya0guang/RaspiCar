@@ -1,4 +1,6 @@
 import RPi.GPIO as GPIO
+from PIDController import *
+import time
 
 def initializeDrive(deb):
     global debug
@@ -38,8 +40,8 @@ class Motor:
         if self.dutyCycle < self.mindc:
             self.dutyCycle = self.mindc
         self.motor.ChangeDutyCycle(self.dutyCycle)
-        if debug:
-            print(self.__str__(), " ---- dutyCycle ---- ", self.dutyCycle)
+        # if debug:
+        #     print(self.__str__(), " ---- dutyCycle ---- ", self.dutyCycle)
 
 class Servo(Motor):
     def __init__(self, pin = 20, maxdc = 10, mindc = 5, initdc = 7.3):
@@ -48,13 +50,18 @@ class Servo(Motor):
         Motor.__init__(self, pin, maxdc, mindc, initdc)
 
 class Engine(Motor):
-    position = 0
 
-    def __init__(self, pinPWM, pinBackPWM, pinSensor, maxdc = 100, mindc = 0, initdc = 0):
+    def __init__(self, pinPWM, pinBackPWM, pinSensor, maxdc = 100, mindc = 0, initdc = 0, sampleTime = 0.05):
         Motor.__init__(self, pinPWM, maxdc, mindc, initdc)
         self.pinBack = pinBackPWM
         self.pinFeedback = pinSensor
         self.direction = True
+        self.sampleTime = sampleTime
+        self.position = 0
+        self.lastPosition = 0
+        self.speed = 0
+        self.expectedSpeed = 0
+        self.speed2dc = 0.05
         # set up pins
         GPIO.setup(self.pinBack, GPIO.OUT)
         GPIO.setup(self.pinFeedback, GPIO.IN)
@@ -64,6 +71,10 @@ class Engine(Motor):
         self.motorBack.start(0)
         # set up feedback event
         GPIO.add_event_detect(self.pinFeedback, GPIO.RISING, callback=self.feedback)
+        # creat PIDController instance
+        self.pid = PIDController(3, 0, 0, self.sampleTime)
+        # initialize time
+        self.lastTime = time.time()
         self.update()
 
     def reverse(self):
@@ -71,22 +82,38 @@ class Engine(Motor):
         self.update()
 
     def update(self):
-        # fresh PWM output
-        if self.dutyCycle > self.maxdc:
-            self.dutyCycle = self.maxdc
-        if self.dutyCycle < self.mindc:
-            self.dutyCycle = self.mindc
+        currentTime = time.time()
+        if (currentTime - self.lastTime) > self.sampleTime:
+            self.speed = (self.position - self.lastPosition) / self.sampleTime
+            self.lastPosition = self.position
+            self.lastTime = currentTime
+            self.pid.update(self.expectedSpeed, self.speed)
+            self.dutyCycle += self.pid.output * self.speed2dc
 
-        if self.direction:
-            self.motor.ChangeDutyCycle(self.dutyCycle)
-            self.motorBack.ChangeDutyCycle(0)
-        if not self.direction:
-            self.motor.ChangeDutyCycle(0)
-            self.motorBack.ChangeDutyCycle(self.dutyCycle)
-        if debug:
-            print(self.__str__(), " ---- Position of ---- ",  self.position)
-            print(self.__str__(), " ---- dutyCycle ---- ", self.dutyCycle)
-            print(self.__str__(), " ---- direction ---- ", self.direction)
+            # fresh PWM output
+            if self.dutyCycle > self.maxdc:
+                self.dutyCycle = self.maxdc
+            if self.dutyCycle < self.mindc:
+                self.dutyCycle = self.mindc
+
+            if self.direction:
+                self.motor.ChangeDutyCycle(self.dutyCycle)
+                self.motorBack.ChangeDutyCycle(0)
+            if not self.direction:
+                self.motor.ChangeDutyCycle(0)
+                self.motorBack.ChangeDutyCycle(self.dutyCycle)
+
+            if debug:
+                print(" ---- Position ---- ",  self.position, "---- PID output ----", self.pid.output)
+                print(" ---- SetSpeed ---- ",  self.expectedSpeed, "---- Speed ---", self.speed)
+                print(" ---- dutyCycle ---- ", self.dutyCycle)
+                print(" ---- direction ---- ", self.direction)
+
+    def speedInc(self, deltaSpeed = 20):
+        self.expectedSpeed += deltaSpeed
+
+    def speedDec(self, deltaSpeed = 20):
+        self.expectedSpeed -= deltaSpeed
 
     def feedback(self, channel):
         self.position += 1

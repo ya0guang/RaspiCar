@@ -3,13 +3,21 @@ import sys
 import select
 import termios
 import tty
-from motor import *
+from drive import *
 
 def execute(servo1, servo2, engine1, engine2):
     # output duty cycle
+    # if debug:
+    #     print("======ServoL=======")
     servo1.update()
+    # if debug:
+    #     print("======ServoR=======")
     servo2.update()
+    if debug:
+        print("======engineL=======")
     engine1.update()
+    if debug:
+        print("======engineR=======")
     engine2.update()
 
 def cycle(controlSignal, servoMain, servoSub, engineMain, engineSub):
@@ -26,17 +34,18 @@ def cycle(controlSignal, servoMain, servoSub, engineMain, engineSub):
     # "+" for accelerating, "r" for change direction
     # main engine mannual control
     if controlSignal == "+" :
-        engineMain.dcincrease(1)
+        engineMain.speedInc()
+        engineSub.speedInc()
     if controlSignal == "_":
-        engineMain.dcdecrease(1)
+        engineMain.speedDec()
     if controlSignal == "R":
         engineMain.reverse()
 
     # sub engine mannual control
     if controlSignal == "=" :
-        engineSub.dcincrease(1)
+        engineSub.speedInc()
     if controlSignal == "-":
-        engineSub.dcdecrease(1)
+        engineSub.speedDec()
     if controlSignal == "r":
         engineSub.reverse()
 
