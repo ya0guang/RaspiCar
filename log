@@ -1,9 +1,9 @@
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  0 ---- PID output ---- 315.0
+ ---- SetSpeed ----  300 ---- Speed --- 0.0
+ ---- dutyCycle ----  15.75
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -12,16 +12,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  0 ---- PID output ---- 315.0
+ ---- SetSpeed ----  300 ---- Speed --- 0.0
+ ---- dutyCycle ----  15.75
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  2 ---- PID output ---- 298.8888888888889
+ ---- SetSpeed ----  300 ---- Speed --- 29.629629629629626
+ ---- dutyCycle ----  30.694444444444446
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -30,16 +30,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  2 ---- PID output ---- 298.74767467817543
+ ---- SetSpeed ----  300 ---- Speed --- 29.76411935411861
+ ---- dutyCycle ----  30.687383733908774
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  8 ---- PID output ---- 250.18518518518522
+ ---- SetSpeed ----  300 ---- Speed --- 88.88888888888887
+ ---- dutyCycle ----  43.20370370370371
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -48,16 +48,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  12 ---- PID output ---- 187.25016742317138
+ ---- SetSpeed ----  300 ---- Speed --- 148.82059677059303
+ ---- dutyCycle ----  40.04989210506734
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  21 ---- PID output ---- 151.85185185185188
+ ---- SetSpeed ----  300 ---- Speed --- 192.59259259259258
+ ---- dutyCycle ----  50.796296296296305
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -66,16 +66,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  29 ---- PID output ---- 85.42599895825585
+ ---- SetSpeed ----  300 ---- Speed --- 252.99501451000816
+ ---- dutyCycle ----  44.32119205298014
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  40 ---- PID output ---- 63.88888888888897
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  53.990740740740755
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -84,16 +84,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  52 ---- PID output ---- -5.980727732718137
+ ---- SetSpeed ----  300 ---- Speed --- 342.28737257236395
+ ---- dutyCycle ----  44.02215566634423
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  63 ---- PID output ---- 2.592592592592702
+ ---- SetSpeed ----  300 ---- Speed --- 340.74074074074065
+ ---- dutyCycle ----  54.12037037037039
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -102,16 +102,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  77 ---- PID output ---- -39.34742168316084
+ ---- SetSpeed ----  300 ---- Speed --- 372.0514919264825
+ ---- dutyCycle ----  42.054784582186194
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  88 ---- PID output ---- -30.55555555555555
+ ---- SetSpeed ----  300 ---- Speed --- 370.3703703703704
+ ---- dutyCycle ----  52.59259259259261
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -120,16 +120,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  102 ---- PID output ---- -42.949996279484964
+ ---- SetSpeed ----  300 ---- Speed --- 372.0514919264825
+ ---- dutyCycle ----  39.907284768211944
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  114 ---- PID output ---- -49.62962962962959
+ ---- SetSpeed ----  300 ---- Speed --- 385.18518518518516
+ ---- dutyCycle ----  50.11111111111113
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -138,16 +138,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  128 ---- PID output ---- -62.178733536721374
+ ---- SetSpeed ----  300 ---- Speed --- 386.93355160354184
+ ---- dutyCycle ----  36.79834809137588
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  140 ---- PID output ---- -53.88888888888885
+ ---- SetSpeed ----  300 ---- Speed --- 385.18518518518516
+ ---- dutyCycle ----  47.416666666666686
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -156,16 +156,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  152 ---- PID output ---- -35.27308579507396
+ ---- SetSpeed ----  300 ---- Speed --- 357.16943224942327
+ ---- dutyCycle ----  35.03469380162218
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  162 ---- PID output ---- 4.074074074074151
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  47.620370370370395
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -174,16 +174,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  173 ---- PID output ---- 8.746930575191666
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  35.472040330381766
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  184 ---- PID output ---- 2.7777777777778567
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  47.75925925925929
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -192,16 +192,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  196 ---- PID output ---- -23.13155740754511
+ ---- SetSpeed ----  300 ---- Speed --- 342.28737257236395
+ ---- dutyCycle ----  34.31546246000451
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  206 ---- PID output ---- 1.4814814814815627
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  47.833333333333364
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -210,16 +210,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  217 ---- PID output ---- 6.0063992856612
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  34.61578242428757
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  227 ---- PID output ---- 15.74074074074079
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  48.6203703703704
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -228,16 +228,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  238 ---- PID output ---- 5.380236624748932
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  34.88479425552502
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  249 ---- PID output ---- -0.370370370370285
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  48.60185185185189
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -246,16 +246,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  259 ---- PID output ---- 4.754073963836664
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  35.12249795371686
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  270 ---- PID output ---- 13.888888888888943
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  49.29629629629634
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -264,16 +264,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  280 ---- PID output ---- 4.127911302924396
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  35.328893518863076
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  292 ---- PID output ---- -2.2222222222221326
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  49.18518518518523
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -282,16 +282,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  301 ---- PID output ---- 3.501748642012128
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  35.50398095096368
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  313 ---- PID output ---- 12.037037037037095
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  49.78703703703709
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -300,16 +300,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  321 ---- PID output ---- 18.501748642012142
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  36.42906838306428
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  336 ---- PID output ---- -19.6296296296295
+ ---- SetSpeed ----  300 ---- Speed --- 340.74074074074065
+ ---- dutyCycle ----  48.805555555555614
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -318,16 +318,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  342 ---- PID output ---- 2.9935263040405573
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  36.57874469826631
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  358 ---- PID output ---- -6.111111111111011
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  48.500000000000064
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -336,16 +336,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  362 ---- PID output ---- 17.99352630404057
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  37.47842101346834
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  379 ---- PID output ---- 8.148148148148216
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  48.907407407407476
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -354,16 +354,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  378 ---- PID output ---- 80.61611727063031
+ ---- SetSpeed ----  300 ---- Speed --- 238.11295483294887
+ ---- dutyCycle ----  41.50922687699986
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  399 ---- PID output ---- 23.14814814814824
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  50.06481481481489
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -372,16 +372,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  395 ---- PID output ---- 68.08430686807061
+ ---- SetSpeed ----  300 ---- Speed --- 252.99501451000816
+ ---- dutyCycle ----  44.91344222040339
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  417 ---- PID output ---- 54.44444444444453
+ ---- SetSpeed ----  300 ---- Speed --- 266.66666666666663
+ ---- dutyCycle ----  52.787037037037116
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -390,16 +390,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  409 ---- PID output ---- 117.31304412530703
+ ---- SetSpeed ----  300 ---- Speed --- 208.34883547883024
+ ---- dutyCycle ----  50.77909442666874
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  434 ---- PID output ---- 71.66666666666674
+ ---- SetSpeed ----  300 ---- Speed --- 251.85185185185182
+ ---- dutyCycle ----  56.37037037037045
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -408,16 +408,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  425 ---- PID output ---- 90.64327702954095
+ ---- SetSpeed ----  300 ---- Speed --- 238.11295483294887
+ ---- dutyCycle ----  55.311258278145786
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  451 ---- PID output ---- 74.07407407407416
+ ---- SetSpeed ----  300 ---- Speed --- 251.85185185185182
+ ---- dutyCycle ----  60.07407407407416
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -426,2100 +426,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  0 ---- PID output ---- 60.0
- ---- SetSpeed ----  20 ---- Speed --- 0.0
- ---- dutyCycle ----  3.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  0 ---- PID output ---- 60.0
- ---- SetSpeed ----  20 ---- Speed --- 0.0
- ---- dutyCycle ----  6.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  0 ---- PID output ---- 60.0
- ---- SetSpeed ----  20 ---- Speed --- 0.0
- ---- dutyCycle ----  9.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1 ---- PID output ---- 60.0
- ---- SetSpeed ----  40 ---- Speed --- 20.0
- ---- dutyCycle ----  12.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  3 ---- PID output ---- 0.0
- ---- SetSpeed ----  40 ---- Speed --- 40.0
- ---- dutyCycle ----  12.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  6 ---- PID output ---- 0.0
- ---- SetSpeed ----  60 ---- Speed --- 60.0
- ---- dutyCycle ----  12.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  9 ---- PID output ---- 0.0
- ---- SetSpeed ----  60 ---- Speed --- 60.0
- ---- dutyCycle ----  12.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  12 ---- PID output ---- 60.0
- ---- SetSpeed ----  80 ---- Speed --- 60.0
- ---- dutyCycle ----  15.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  14 ---- PID output ---- 120.0
- ---- SetSpeed ----  80 ---- Speed --- 40.0
- ---- dutyCycle ----  21.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  21 ---- PID output ---- -180.0
- ---- SetSpeed ----  80 ---- Speed --- 140.0
- ---- dutyCycle ----  12.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  29 ---- PID output ---- -240.0
- ---- SetSpeed ----  80 ---- Speed --- 160.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  31 ---- PID output ---- 180.0
- ---- SetSpeed ----  100 ---- Speed --- 40.0
- ---- dutyCycle ----  9.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  32 ---- PID output ---- 240.0
- ---- SetSpeed ----  100 ---- Speed --- 20.0
- ---- dutyCycle ----  21.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  35 ---- PID output ---- 120.0
- ---- SetSpeed ----  100 ---- Speed --- 60.0
- ---- dutyCycle ----  27.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  47 ---- PID output ---- -360.0
- ---- SetSpeed ----  120 ---- Speed --- 240.0
- ---- dutyCycle ----  9.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  55 ---- PID output ---- -120.0
- ---- SetSpeed ----  120 ---- Speed --- 160.0
- ---- dutyCycle ----  3.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  57 ---- PID output ---- 300.0
- ---- SetSpeed ----  140 ---- Speed --- 40.0
- ---- dutyCycle ----  18.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  60 ---- PID output ---- 240.0
- ---- SetSpeed ----  140 ---- Speed --- 60.0
- ---- dutyCycle ----  30.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  70 ---- PID output ---- -180.0
- ---- SetSpeed ----  140 ---- Speed --- 200.0
- ---- dutyCycle ----  21.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  82 ---- PID output ---- -300.0
- ---- SetSpeed ----  140 ---- Speed --- 240.0
- ---- dutyCycle ----  6.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  88 ---- PID output ---- 120.0
- ---- SetSpeed ----  160 ---- Speed --- 120.0
- ---- dutyCycle ----  12.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  89 ---- PID output ---- 420.0
- ---- SetSpeed ----  160 ---- Speed --- 20.0
- ---- dutyCycle ----  33.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  93 ---- PID output ---- 240.0
- ---- SetSpeed ----  160 ---- Speed --- 80.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  109 ---- PID output ---- -480.0
- ---- SetSpeed ----  160 ---- Speed --- 320.0
- ---- dutyCycle ----  21.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  124 ---- PID output ---- -360.0
- ---- SetSpeed ----  180 ---- Speed --- 300.0
- ---- dutyCycle ----  3.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  129 ---- PID output ---- 240.0
- ---- SetSpeed ----  180 ---- Speed --- 100.0
- ---- dutyCycle ----  15.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  129 ---- PID output ---- 540.0
- ---- SetSpeed ----  180 ---- Speed --- 0.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  140 ---- PID output ---- -120.0
- ---- SetSpeed ----  180 ---- Speed --- 220.0
- ---- dutyCycle ----  36.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  157 ---- PID output ---- -420.0
- ---- SetSpeed ----  200 ---- Speed --- 340.0
- ---- dutyCycle ----  15.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  168 ---- PID output ---- -60.0
- ---- SetSpeed ----  200 ---- Speed --- 220.0
- ---- dutyCycle ----  12.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  173 ---- PID output ---- 300.0
- ---- SetSpeed ----  200 ---- Speed --- 100.0
- ---- dutyCycle ----  27.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  177 ---- PID output ---- 360.0
- ---- SetSpeed ----  200 ---- Speed --- 80.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  189 ---- PID output ---- -120.0
- ---- SetSpeed ----  200 ---- Speed --- 240.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  206 ---- PID output ---- -420.0
- ---- SetSpeed ----  200 ---- Speed --- 340.0
- ---- dutyCycle ----  18.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  216 ---- PID output ---- 0.0
- ---- SetSpeed ----  200 ---- Speed --- 200.0
- ---- dutyCycle ----  18.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  223 ---- PID output ---- 180.0
- ---- SetSpeed ----  200 ---- Speed --- 140.0
- ---- dutyCycle ----  27.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  231 ---- PID output ---- 120.0
- ---- SetSpeed ----  200 ---- Speed --- 160.0
- ---- dutyCycle ----  33.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  242 ---- PID output ---- -60.0
- ---- SetSpeed ----  200 ---- Speed --- 220.0
- ---- dutyCycle ----  30.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  255 ---- PID output ---- -180.0
- ---- SetSpeed ----  200 ---- Speed --- 260.0
- ---- dutyCycle ----  21.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  265 ---- PID output ---- 0.0
- ---- SetSpeed ----  200 ---- Speed --- 200.0
- ---- dutyCycle ----  21.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  274 ---- PID output ---- 120.0
- ---- SetSpeed ----  220 ---- Speed --- 180.0
- ---- dutyCycle ----  27.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  282 ---- PID output ---- 180.0
- ---- SetSpeed ----  220 ---- Speed --- 160.0
- ---- dutyCycle ----  36.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  294 ---- PID output ---- -60.0
- ---- SetSpeed ----  220 ---- Speed --- 240.0
- ---- dutyCycle ----  33.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  307 ---- PID output ---- -120.0
- ---- SetSpeed ----  220 ---- Speed --- 260.0
- ---- dutyCycle ----  27.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  318 ---- PID output ---- 0.0
- ---- SetSpeed ----  220 ---- Speed --- 220.0
- ---- dutyCycle ----  27.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  327 ---- PID output ---- 120.0
- ---- SetSpeed ----  220 ---- Speed --- 180.0
- ---- dutyCycle ----  33.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  337 ---- PID output ---- 60.0
- ---- SetSpeed ----  220 ---- Speed --- 200.0
- ---- dutyCycle ----  36.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  350 ---- PID output ---- -120.0
- ---- SetSpeed ----  220 ---- Speed --- 260.0
- ---- dutyCycle ----  30.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  363 ---- PID output ---- -60.0
- ---- SetSpeed ----  240 ---- Speed --- 260.0
- ---- dutyCycle ----  27.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  372 ---- PID output ---- 180.0
- ---- SetSpeed ----  240 ---- Speed --- 180.0
- ---- dutyCycle ----  36.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  382 ---- PID output ---- 120.0
- ---- SetSpeed ----  240 ---- Speed --- 200.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  395 ---- PID output ---- -60.0
- ---- SetSpeed ----  240 ---- Speed --- 260.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  407 ---- PID output ---- 0.0
- ---- SetSpeed ----  240 ---- Speed --- 240.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  418 ---- PID output ---- 60.0
- ---- SetSpeed ----  240 ---- Speed --- 220.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  428 ---- PID output ---- 120.0
- ---- SetSpeed ----  240 ---- Speed --- 200.0
- ---- dutyCycle ----  48.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  442 ---- PID output ---- -120.0
- ---- SetSpeed ----  240 ---- Speed --- 280.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  454 ---- PID output ---- 0.0
- ---- SetSpeed ----  240 ---- Speed --- 240.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  468 ---- PID output ---- -60.0
- ---- SetSpeed ----  260 ---- Speed --- 280.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  477 ---- PID output ---- 240.0
- ---- SetSpeed ----  260 ---- Speed --- 180.0
- ---- dutyCycle ----  51.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  490 ---- PID output ---- 0.0
- ---- SetSpeed ----  260 ---- Speed --- 260.0
- ---- dutyCycle ----  51.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  505 ---- PID output ---- -120.0
- ---- SetSpeed ----  260 ---- Speed --- 300.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  519 ---- PID output ---- -60.0
- ---- SetSpeed ----  260 ---- Speed --- 280.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  530 ---- PID output ---- 120.0
- ---- SetSpeed ----  260 ---- Speed --- 220.0
- ---- dutyCycle ----  48.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  544 ---- PID output ---- -60.0
- ---- SetSpeed ----  260 ---- Speed --- 280.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  560 ---- PID output ---- -120.0
- ---- SetSpeed ----  280 ---- Speed --- 320.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  573 ---- PID output ---- 60.0
- ---- SetSpeed ----  280 ---- Speed --- 260.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  587 ---- PID output ---- 0.0
- ---- SetSpeed ----  280 ---- Speed --- 280.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  602 ---- PID output ---- -60.0
- ---- SetSpeed ----  280 ---- Speed --- 300.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  619 ---- PID output ---- -180.0
- ---- SetSpeed ----  280 ---- Speed --- 340.0
- ---- dutyCycle ----  30.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  633 ---- PID output ---- 0.0
- ---- SetSpeed ----  280 ---- Speed --- 280.0
- ---- dutyCycle ----  30.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  646 ---- PID output ---- 60.0
- ---- SetSpeed ----  280 ---- Speed --- 260.0
- ---- dutyCycle ----  33.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  660 ---- PID output ---- 0.0
- ---- SetSpeed ----  280 ---- Speed --- 280.0
- ---- dutyCycle ----  33.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  674 ---- PID output ---- 60.0
- ---- SetSpeed ----  300 ---- Speed --- 280.0
- ---- dutyCycle ----  36.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  690 ---- PID output ---- -60.0
- ---- SetSpeed ----  300 ---- Speed --- 320.0
- ---- dutyCycle ----  33.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  705 ---- PID output ---- 0.0
- ---- SetSpeed ----  300 ---- Speed --- 300.0
- ---- dutyCycle ----  33.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  718 ---- PID output ---- 120.0
- ---- SetSpeed ----  300 ---- Speed --- 260.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  733 ---- PID output ---- 0.0
- ---- SetSpeed ----  300 ---- Speed --- 300.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  748 ---- PID output ---- 0.0
- ---- SetSpeed ----  300 ---- Speed --- 300.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  764 ---- PID output ---- -60.0
- ---- SetSpeed ----  300 ---- Speed --- 320.0
- ---- dutyCycle ----  36.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  778 ---- PID output ---- 120.0
- ---- SetSpeed ----  320 ---- Speed --- 280.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  795 ---- PID output ---- -60.0
- ---- SetSpeed ----  320 ---- Speed --- 340.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  811 ---- PID output ---- 0.0
- ---- SetSpeed ----  320 ---- Speed --- 320.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  826 ---- PID output ---- 60.0
- ---- SetSpeed ----  320 ---- Speed --- 300.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  842 ---- PID output ---- 0.0
- ---- SetSpeed ----  320 ---- Speed --- 320.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  859 ---- PID output ---- -60.0
- ---- SetSpeed ----  320 ---- Speed --- 340.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  875 ---- PID output ---- 0.0
- ---- SetSpeed ----  320 ---- Speed --- 320.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  890 ---- PID output ---- 120.0
- ---- SetSpeed ----  340 ---- Speed --- 300.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  907 ---- PID output ---- 0.0
- ---- SetSpeed ----  340 ---- Speed --- 340.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  925 ---- PID output ---- -60.0
- ---- SetSpeed ----  340 ---- Speed --- 360.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  943 ---- PID output ---- -60.0
- ---- SetSpeed ----  340 ---- Speed --- 360.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  960 ---- PID output ---- 0.0
- ---- SetSpeed ----  340 ---- Speed --- 340.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  977 ---- PID output ---- 0.0
- ---- SetSpeed ----  340 ---- Speed --- 340.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  994 ---- PID output ---- 0.0
- ---- SetSpeed ----  340 ---- Speed --- 340.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1011 ---- PID output ---- 60.0
- ---- SetSpeed ----  360 ---- Speed --- 340.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1030 ---- PID output ---- -60.0
- ---- SetSpeed ----  360 ---- Speed --- 380.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1048 ---- PID output ---- 0.0
- ---- SetSpeed ----  360 ---- Speed --- 360.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1066 ---- PID output ---- 0.0
- ---- SetSpeed ----  360 ---- Speed --- 360.0
- ---- dutyCycle ----  39.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1083 ---- PID output ---- 60.0
- ---- SetSpeed ----  360 ---- Speed --- 340.0
- ---- dutyCycle ----  42.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1100 ---- PID output ---- 60.0
- ---- SetSpeed ----  360 ---- Speed --- 340.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1118 ---- PID output ---- 0.0
- ---- SetSpeed ----  360 ---- Speed --- 360.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1137 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1154 ---- PID output ---- 120.0
- ---- SetSpeed ----  380 ---- Speed --- 340.0
- ---- dutyCycle ----  51.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1172 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  54.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1191 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  54.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1212 ---- PID output ---- -120.0
- ---- SetSpeed ----  380 ---- Speed --- 420.0
- ---- dutyCycle ----  48.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1232 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1251 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  45.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1269 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  48.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1287 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  51.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1307 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  48.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1326 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  48.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1344 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  51.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1362 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  54.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
- ---- direction ----  True
-======engineL=======
-======engineR=======
-======engineL=======
- ---- Position ----  1381 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  54.0
- ---- direction ----  True
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
-======engineL=======
-======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  444 ---- PID output ---- 46.85914130515668
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  57.65421534340362
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1401 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  469 ---- PID output ---- 60.92592592592601
+ ---- SetSpeed ----  300 ---- Speed --- 266.66666666666663
+ ---- dutyCycle ----  63.12037037037046
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2528,16 +444,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  467 ---- PID output ---- -14.783466031698666
+ ---- SetSpeed ----  300 ---- Speed --- 342.28737257236395
+ ---- dutyCycle ----  56.91504204181869
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1421 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  492 ---- PID output ---- -15.185185185185038
+ ---- SetSpeed ----  300 ---- Speed --- 340.74074074074065
+ ---- dutyCycle ----  62.36111111111121
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2546,16 +462,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  495 ---- PID output ---- -95.02864796487822
+ ---- SetSpeed ----  300 ---- Speed --- 416.6976709576605
+ ---- dutyCycle ----  52.16360964357477
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1440 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  519 ---- PID output ---- -79.44444444444439
+ ---- SetSpeed ----  300 ---- Speed --- 400.0
+ ---- dutyCycle ----  58.388888888888985
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2564,16 +480,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  524 ---- PID output ---- -116.48969417367347
+ ---- SetSpeed ----  300 ---- Speed --- 431.57973063471974
+ ---- dutyCycle ----  46.3391249348911
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1458 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  549 ---- PID output ---- -131.111111111111
+ ---- SetSpeed ----  300 ---- Speed --- 444.4444444444444
+ ---- dutyCycle ----  51.833333333333435
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2582,16 +498,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  551 ---- PID output ---- -91.81635538358495
+ ---- SetSpeed ----  300 ---- Speed --- 401.81561128060116
+ ---- dutyCycle ----  41.74830716571186
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1477 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  577 ---- PID output ---- -107.22222222222213
+ ---- SetSpeed ----  300 ---- Speed --- 414.8148148148148
+ ---- dutyCycle ----  46.47222222222233
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2600,16 +516,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  576 ---- PID output ---- -65.65481062579045
+ ---- SetSpeed ----  300 ---- Speed --- 372.0514919264825
+ ---- dutyCycle ----  38.46556663442234
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1497 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  602 ---- PID output ---- -66.29629629629625
+ ---- SetSpeed ----  300 ---- Speed --- 370.3703703703704
+ ---- dutyCycle ----  43.15740740740752
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2618,16 +534,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  599 ---- PID output ---- -38.005059900290064
+ ---- SetSpeed ----  300 ---- Speed --- 342.28737257236395
+ ---- dutyCycle ----  36.56531363940783
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1517 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  45.0
+ ---- Position ----  624 ---- PID output ---- -23.14814814814803
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  42.000000000000114
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2636,16 +552,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  618 ---- PID output ---- 22.385222114740756
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  37.68457474514487
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1536 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  45.0
+ ---- Position ----  643 ---- PID output ---- 22.222222222222356
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  43.11111111111123
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2654,16 +570,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  633 ---- PID output ---- 85.75191606518352
+ ---- SetSpeed ----  300 ---- Speed --- 223.23089515588956
+ ---- dutyCycle ----  41.97217054840405
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1556 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  42.0
+ ---- Position ----  661 ---- PID output ---- 38.70370370370381
+ ---- SetSpeed ----  300 ---- Speed --- 266.66666666666663
+ ---- dutyCycle ----  45.04629629629642
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2672,16 +588,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  653 ---- PID output ---- 11.459558002827714
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  42.54514844854544
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1574 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  45.0
+ ---- Position ----  681 ---- PID output ---- 9.259259259259377
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  45.50925925925939
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2690,16 +606,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  672 ---- PID output ---- 27.203660986680635
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  43.90533149787947
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1591 ---- PID output ---- 120.0
- ---- SetSpeed ----  380 ---- Speed --- 340.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  703 ---- PID output ---- -21.666666666666536
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  44.42592592592606
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2708,16 +624,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  692 ---- PID output ---- 12.439541632562072
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  44.527308579507576
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1610 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  724 ---- PID output ---- -7.40740740740731
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  44.05555555555569
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2726,16 +642,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  711 ---- PID output ---- 28.183644616414995
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  45.93649081032832
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1629 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  744 ---- PID output ---- 7.592592592592716
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  44.435185185185325
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2744,16 +660,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  732 ---- PID output ---- -2.206637398615852
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  45.826158940397534
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1648 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  763 ---- PID output ---- 23.333333333333485
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  45.601851851852
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2762,16 +678,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  752 ---- PID output ---- 12.793362601384162
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  46.465827070466744
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1667 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  783 ---- PID output ---- 8.703703703703834
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  46.03703703703719
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2780,16 +696,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  774 ---- PID output ---- -18.341022397499646
+ ---- SetSpeed ----  300 ---- Speed --- 327.40531289530463
+ ---- dutyCycle ----  45.54877595059176
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1685 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  802 ---- PID output ---- 24.4444444444446
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  47.259259259259416
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2798,16 +714,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  795 ---- PID output ---- -4.085125381352654
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  45.344519681524126
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1703 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  57.0
+ ---- Position ----  821 ---- PID output ---- 25.37037037037053
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  48.52777777777794
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2816,16 +732,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  817 ---- PID output ---- -20.337450703177147
+ ---- SetSpeed ----  300 ---- Speed --- 327.40531289530463
+ ---- dutyCycle ----  44.327647146365265
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1722 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  57.0
+ ---- Position ----  842 ---- PID output ---- -4.8148148148147
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  48.28703703703721
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2834,16 +750,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  839 ---- PID output ---- -21.707716347942377
+ ---- SetSpeed ----  300 ---- Speed --- 327.40531289530463
+ ---- dutyCycle ----  43.24226132896815
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1743 ---- PID output ---- -120.0
- ---- SetSpeed ----  380 ---- Speed --- 420.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  864 ---- PID output ---- -20.925925925925775
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  47.24074074074092
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2852,16 +768,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  862 ---- PID output ---- -38.70414465361989
+ ---- SetSpeed ----  300 ---- Speed --- 342.28737257236395
+ ---- dutyCycle ----  41.30705409628715
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1762 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  887 ---- PID output ---- -37.77777777777759
+ ---- SetSpeed ----  300 ---- Speed --- 340.74074074074065
+ ---- dutyCycle ----  45.35185185185204
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2870,16 +786,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  885 ---- PID output ---- -40.81851328223809
+ ---- SetSpeed ----  300 ---- Speed --- 342.28737257236395
+ ---- dutyCycle ----  39.26612843217525
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1780 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  909 ---- PID output ---- -24.2592592592591
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  44.138888888889085
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2888,16 +804,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  907 ---- PID output ---- -27.306719249944003
+ ---- SetSpeed ----  300 ---- Speed --- 327.40531289530463
+ ---- dutyCycle ----  37.90079246967805
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1798 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  57.0
+ ---- Position ----  929 ---- PID output ---- 5.555555555555706
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  44.41666666666687
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2906,16 +822,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  928 ---- PID output ---- -13.050822233797012
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  37.2482513579882
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1816 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  60.0
+ ---- Position ----  949 ---- PID output ---- 5.740740740740894
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  44.703703703703916
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2924,16 +840,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  948 ---- PID output ---- 1.9491777662030016
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  37.34571024629835
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1834 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  63.0
+ ---- Position ----  969 ---- PID output ---- 5.925925925926082
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  45.00000000000022
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2942,16 +858,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  968 ---- PID output ---- 2.067118089143699
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  37.449066150755534
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1852 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  66.0
+ ---- Position ----  988 ---- PID output ---- 21.66666666666685
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  46.08333333333356
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2960,16 +876,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  989 ---- PID output ---- -13.441104248827887
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  36.77701093831414
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1871 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  66.0
+ ---- Position ----  1008 ---- PID output ---- 7.0370370370372
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  46.435185185185425
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2978,16 +894,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1009 ---- PID output ---- 1.5588957511721275
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  36.85495572587275
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1889 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  69.0
+ ---- Position ----  1027 ---- PID output ---- 22.777777777777967
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  47.574074074074325
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -2996,16 +912,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1030 ---- PID output ---- -13.949326586799458
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  36.157489396532775
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1908 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  69.0
+ ---- Position ----  1047 ---- PID output ---- 8.148148148148316
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  47.981481481481744
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3014,16 +930,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1050 ---- PID output ---- 1.0506734132005562
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  36.2100230671928
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1930 ---- PID output ---- -180.0
- ---- SetSpeed ----  380 ---- Speed --- 440.0
- ---- dutyCycle ----  60.0
+ ---- Position ----  1067 ---- PID output ---- 8.333333333333504
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  48.39814814814842
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3032,16 +948,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1069 ---- PID output ---- 16.794776397053475
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  37.04976188704548
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1953 ---- PID output ---- -240.0
- ---- SetSpeed ----  380 ---- Speed --- 460.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1087 ---- PID output ---- 8.518518518518693
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  48.82407407407436
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3050,16 +966,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1090 ---- PID output ---- -13.59550561797737
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  36.36998660614661
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1973 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  45.0
+ ---- Position ----  1107 ---- PID output ---- 8.70370370370388
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  49.25925925925955
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3068,16 +984,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1109 ---- PID output ---- 17.03065704293487
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  37.22151945829336
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  1991 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1126 ---- PID output ---- 24.44444444444465
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  50.48148148148179
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3086,16 +1002,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1129 ---- PID output ---- 2.2665376888163054
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  37.334846342734174
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2010 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1146 ---- PID output ---- 9.814814814814998
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  50.972222222222534
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3104,16 +1020,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1148 ---- PID output ---- 18.010640672669226
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  38.235378376367635
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2028 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1165 ---- PID output ---- 25.555555555555763
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  52.25000000000032
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3122,16 +1038,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1167 ---- PID output ---- 18.872683979462884
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  39.17901257534078
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2048 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1186 ---- PID output ---- -4.6296296296294654
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  52.018518518518846
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3140,16 +1056,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1185 ---- PID output ---- 35.36088994716883
+ ---- SetSpeed ----  300 ---- Speed --- 267.8770741870675
+ ---- dutyCycle ----  40.94705707269922
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2068 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  45.0
+ ---- Position ----  1208 ---- PID output ---- -20.74074074074054
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  50.98148148148182
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3158,16 +1074,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1204 ---- PID output ---- 21.34087357690317
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  42.014100751544376
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2086 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1230 ---- PID output ---- -22.037037037036832
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  49.87962962962998
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3176,16 +1092,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1225 ---- PID output ---- -9.049408438127674
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  41.56163032963799
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2105 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1252 ---- PID output ---- -23.333333333333126
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  48.712962962963324
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3194,16 +1110,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1244 ---- PID output ---- 21.576754222784565
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  42.64046804077722
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2124 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1273 ---- PID output ---- -9.074074074073899
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  48.25925925925963
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3212,16 +1128,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1264 ---- PID output ---- 6.812634868666001
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  42.98109978421052
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2143 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1294 ---- PID output ---- -9.629629629629454
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  47.777777777778155
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3230,16 +1146,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1284 ---- PID output ---- 6.930575191606699
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  43.32762854379086
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2161 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1314 ---- PID output ---- 5.370370370370572
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  48.04629629629668
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3248,16 +1164,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1305 ---- PID output ---- -8.577647146364887
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  42.898746186472614
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2180 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1336 ---- PID output ---- -25.55555555555534
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  46.76851851851892
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3266,16 +1182,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1326 ---- PID output ---- -9.203809807277157
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  42.43855569610876
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2198 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  1357 ---- PID output ---- -11.296296296296115
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  46.203703703704115
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3284,16 +1200,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1346 ---- PID output ---- 5.796190192722858
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  42.7283652057449
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2217 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  1379 ---- PID output ---- -27.407407407407188
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  44.833333333333755
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3302,16 +1218,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1366 ---- PID output ---- 5.9141305156635555
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  43.024071731528075
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2237 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1398 ---- PID output ---- 17.962962962963196
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  45.731481481481914
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3320,16 +1236,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1383 ---- PID output ---- 52.91055882134104
+ ---- SetSpeed ----  300 ---- Speed --- 252.99501451000816
+ ---- dutyCycle ----  45.669599672595126
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2257 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1417 ---- PID output ---- 18.888888888889127
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  46.67592592592637
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3338,16 +1254,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1402 ---- PID output ---- 24.008482774016066
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  46.87002381129593
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2277 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  45.0
+ ---- Position ----  1435 ---- PID output ---- 35.37037037037058
+ ---- SetSpeed ----  300 ---- Speed --- 266.66666666666663
+ ---- dutyCycle ----  48.4444444444449
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3356,16 +1272,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1421 ---- PID output ---- 24.87052608080973
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  48.113550115336416
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2295 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1453 ---- PID output ---- 37.037037037037244
+ ---- SetSpeed ----  300 ---- Speed --- 266.66666666666663
+ ---- dutyCycle ----  50.29629629629676
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3374,16 +1290,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1440 ---- PID output ---- 25.73256938760339
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  49.400178584716585
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2313 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1472 ---- PID output ---- 23.148148148148394
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  51.45370370370418
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3392,16 +1308,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1461 ---- PID output ---- -4.657712627427457
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  49.16729295334521
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2332 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1490 ---- PID output ---- 39.62962962962985
+ ---- SetSpeed ----  300 ---- Speed --- 266.66666666666663
+ ---- dutyCycle ----  53.435185185185674
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3410,16 +1326,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1481 ---- PID output ---- 10.342287372572557
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  49.684407321973836
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2352 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1510 ---- PID output ---- 10.185185185185414
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  53.94444444444495
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3428,16 +1344,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1503 ---- PID output ---- -20.792097626311254
+ ---- SetSpeed ----  300 ---- Speed --- 327.40531289530463
+ ---- dutyCycle ----  48.644802440658275
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2370 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1528 ---- PID output ---- 41.4814814814817
+ ---- SetSpeed ----  300 ---- Speed --- 266.66666666666663
+ ---- dutyCycle ----  56.01851851851903
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3446,16 +1362,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1524 ---- PID output ---- -6.5362006101642605
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  48.31799241015006
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2388 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  1548 ---- PID output ---- 12.037037037037269
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  56.62037037037089
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3464,16 +1380,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1544 ---- PID output ---- 8.463799389835753
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  48.74118237964185
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2407 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  1567 ---- PID output ---- 27.777777777778034
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  58.00925925925979
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3482,16 +1398,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1564 ---- PID output ---- 8.58173971277645
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  49.170269365280674
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2426 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  1589 ---- PID output ---- -17.962962962962713
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  57.111111111111654
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3500,16 +1416,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1584 ---- PID output ---- 8.699680035717147
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  49.60525336706653
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2447 ---- PID output ---- -120.0
- ---- SetSpeed ----  380 ---- Speed --- 420.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1610 ---- PID output ---- -3.7037037037034874
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  56.92592592592648
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3518,16 +1434,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1605 ---- PID output ---- -6.808542302254438
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  49.26482625195381
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2466 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1631 ---- PID output ---- -4.259259259259042
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  56.71296296296352
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3536,16 +1452,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1624 ---- PID output ---- 23.8176203586578
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  50.455707269886695
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2484 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1651 ---- PID output ---- 10.740740740740984
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  57.250000000000576
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3554,16 +1470,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1645 ---- PID output ---- -6.572661656373046
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  50.12707418706804
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2503 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1670 ---- PID output ---- 26.48148148148175
+ ---- SetSpeed ----  300 ---- Speed --- 281.4814814814814
+ ---- dutyCycle ----  58.574074074074666
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3572,16 +1488,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1662 ---- PID output ---- 55.30582632636376
+ ---- SetSpeed ----  300 ---- Speed --- 252.99501451000816
+ ---- dutyCycle ----  52.89236550338623
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2522 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1690 ---- PID output ---- 11.8518518518521
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  59.16666666666727
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3590,16 +1506,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1680 ---- PID output ---- 42.02991293995107
+ ---- SetSpeed ----  300 ---- Speed --- 267.8770741870675
+ ---- dutyCycle ----  54.993861150383786
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2542 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1710 ---- PID output ---- 12.037037037037287
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  59.76851851851913
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3608,16 +1524,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1701 ---- PID output ---- -3.242428752139096
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  54.83173971277683
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2561 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1730 ---- PID output ---- 12.222222222222474
+ ---- SetSpeed ----  300 ---- Speed --- 296.29629629629625
+ ---- dutyCycle ----  60.37962962963025
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3626,16 +1542,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1720 ---- PID output ---- 27.38373390877314
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  56.20092640821549
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2581 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  45.0
+ ---- Position ----  1753 ---- PID output ---- -34.25925925925896
+ ---- SetSpeed ----  300 ---- Speed --- 340.74074074074065
+ ---- dutyCycle ----  58.666666666667304
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3644,16 +1560,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1741 ---- PID output ---- -3.0065481062577035
+ ---- SetSpeed ----  300 ---- Speed --- 312.5232532182454
+ ---- dutyCycle ----  56.0505990029026
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2601 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  42.0
+ ---- Position ----  1777 ---- PID output ---- -51.85185185185157
+ ---- SetSpeed ----  300 ---- Speed --- 355.5555555555555
+ ---- dutyCycle ----  56.07407407407472
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3662,16 +1578,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1760 ---- PID output ---- 27.619614554654532
+ ---- SetSpeed ----  300 ---- Speed --- 282.7591338641268
+ ---- dutyCycle ----  57.43157973063533
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2619 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  45.0
+ ---- Position ----  1800 ---- PID output ---- -39.07407407407376
+ ---- SetSpeed ----  300 ---- Speed --- 340.74074074074065
+ ---- dutyCycle ----  54.120370370371035
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3680,16 +1596,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1780 ---- PID output ---- 12.855495200535971
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  58.074354490662124
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2637 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  48.0
+ ---- Position ----  1822 ---- PID output ---- -25.55555555555528
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  52.84259259259327
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3698,16 +1614,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1800 ---- PID output ---- 12.973435523476669
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  58.72302626683596
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2655 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1843 ---- PID output ---- -11.296296296296052
+ ---- SetSpeed ----  300 ---- Speed --- 311.1111111111111
+ ---- dutyCycle ----  52.27777777777847
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3716,16 +1632,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1820 ---- PID output ---- 13.091375846417366
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  59.377595059156825
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2674 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1865 ---- PID output ---- -27.407407407407128
+ ---- SetSpeed ----  300 ---- Speed --- 325.92592592592587
+ ---- dutyCycle ----  50.90740740740811
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3734,16 +1650,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1840 ---- PID output ---- 13.209316169358063
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  60.03806086762473
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2692 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  1881 ---- PID output ---- 64.62962962962987
+ ---- SetSpeed ----  300 ---- Speed --- 237.037037037037
+ ---- dutyCycle ----  54.1388888888896
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3752,16 +1668,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1860 ---- PID output ---- 13.32725649229876
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  60.704423692239665
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2711 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  1892 ---- PID output ---- 145.5555555555558
+ ---- SetSpeed ----  300 ---- Speed --- 162.96296296296293
+ ---- dutyCycle ----  61.416666666667396
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3770,16 +1686,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1882 ---- PID output ---- -17.807128506585048
+ ---- SetSpeed ----  300 ---- Speed --- 327.40531289530463
+ ---- dutyCycle ----  59.81406726691041
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2730 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  1895 ---- PID output ---- 276.8518518518521
+ ---- SetSpeed ----  300 ---- Speed --- 44.444444444444436
+ ---- dutyCycle ----  75.25925925926
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3788,16 +1704,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1902 ---- PID output ---- 12.074931170474226
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  60.41781382543412
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2748 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  57.0
+ ---- Position ----  1900 ---- PID output ---- 258.51851851851876
+ ---- SetSpeed ----  300 ---- Speed --- 74.07407407407406
+ ---- dutyCycle ----  88.18518518518594
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3806,16 +1722,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1922 ---- PID output ---- 12.192871493414923
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  61.02745740010487
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2768 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  1904 ---- PID output ---- 285.3703703703706
+ ---- SetSpeed ----  300 ---- Speed --- 59.25925925925925
+ ---- dutyCycle ----  100
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3824,16 +1740,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1942 ---- PID output ---- 12.31081181635562
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  61.64299799092265
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2788 ---- PID output ---- -60.0
- ---- SetSpeed ----  380 ---- Speed --- 400.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1904 ---- PID output ---- 359.62962962962985
+ ---- SetSpeed ----  300 ---- Speed --- 0.0
+ ---- dutyCycle ----  100
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3842,16 +1758,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1962 ---- PID output ---- 12.428752139296318
+ ---- SetSpeed ----  300 ---- Speed --- 297.64119354118606
+ ---- dutyCycle ----  62.26443559788747
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2807 ---- PID output ---- 0.0
- ---- SetSpeed ----  380 ---- Speed --- 380.0
- ---- dutyCycle ----  51.0
+ ---- Position ----  1905 ---- PID output ---- 359.07407407407425
+ ---- SetSpeed ----  300 ---- Speed --- 14.814814814814813
+ ---- dutyCycle ----  100
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3860,16 +1776,16 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  1984 ---- PID output ---- -18.70563285958749
+ ---- SetSpeed ----  300 ---- Speed --- 327.40531289530463
+ ---- dutyCycle ----  61.329153954908094
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2825 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  54.0
+ ---- Position ----  1907 ---- PID output ---- 357.777777777778
+ ---- SetSpeed ----  300 ---- Speed --- 29.629629629629626
+ ---- dutyCycle ----  100
  ---- direction ----  True
 ======engineR=======
 ======engineL=======
@@ -3878,17 +1794,15 @@
 ======engineR=======
 ======engineL=======
 ======engineR=======
- ---- Position ----  0 ---- PID output ---- 0.0
- ---- SetSpeed ----  0 ---- Speed --- 0.0
- ---- dutyCycle ----  0.0
+ ---- Position ----  2007 ---- PID output ---- -35.70206116526501
+ ---- SetSpeed ----  300 ---- Speed --- 342.28737257236395
+ ---- dutyCycle ----  59.54405089664484
  ---- direction ----  True
 ======engineL=======
 ======engineR=======
 ======engineL=======
- ---- Position ----  2843 ---- PID output ---- 60.0
- ---- SetSpeed ----  380 ---- Speed --- 360.0
- ---- dutyCycle ----  57.0
+ ---- Position ----  1908 ---- PID output ---- 386.8518518518521
+ ---- SetSpeed ----  300 ---- Speed --- 14.814814814814813
+ ---- dutyCycle ----  100
  ---- direction ----  True
-======engineR=======
-======engineL=======
 ======engineR=======

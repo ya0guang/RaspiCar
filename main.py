@@ -62,8 +62,8 @@ def main():
     global servoL, servoR, engineL, engineR
     servoL = Servo(22)
     servoR = Servo(24)
-    engineL = Engine(11, 8, 27)
-    engineR = Engine(10, 9, 23)
+    engineL = Engine(11, 8, 27, speedRate = 1.2)
+    engineR = Engine(10, 9, 23, speedRate = 1.3439)
 
     old_settings = termios.tcgetattr(sys.stdin)
     try:

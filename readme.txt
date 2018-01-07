@@ -11,3 +11,6 @@ GPIO27 --> Feedback
 # Servo:
 GPIO22 --> Left
 GPIO24 --> Right
+
+right 13676 10r
+left 13439 10r

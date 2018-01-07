@@ -51,7 +51,7 @@ class Servo(Motor):
 
 class Engine(Motor):
 
-    def __init__(self, pinPWM, pinBackPWM, pinSensor, maxdc = 100, mindc = 0, initdc = 0, sampleTime = 0.05):
+    def __init__(self, pinPWM, pinBackPWM, pinSensor, maxdc = 100, mindc = 0, initdc = 0, speedRate = 1, sampleTime = 0.02):
         Motor.__init__(self, pinPWM, maxdc, mindc, initdc)
         self.pinBack = pinBackPWM
         self.pinFeedback = pinSensor
@@ -60,8 +60,10 @@ class Engine(Motor):
         self.position = 0
         self.lastPosition = 0
         self.speed = 0
-        self.expectedSpeed = 0
+        self.expectedSpeed = 300
         self.speed2dc = 0.05
+        # this parameter is ralated to motor's position detect error
+        self.speedDetectRate = speedRate
         # set up pins
         GPIO.setup(self.pinBack, GPIO.OUT)
         GPIO.setup(self.pinFeedback, GPIO.IN)
@@ -72,7 +74,7 @@ class Engine(Motor):
         # set up feedback event
         GPIO.add_event_detect(self.pinFeedback, GPIO.RISING, callback=self.feedback)
         # creat PIDController instance
-        self.pid = PIDController(3, 0, 0, self.sampleTime)
+        self.pid = PIDController(2.1, 0, 0, self.sampleTime)
         # initialize time
         self.lastTime = time.time()
         self.update()
@@ -84,7 +86,7 @@ class Engine(Motor):
     def update(self):
         currentTime = time.time()
         if (currentTime - self.lastTime) > self.sampleTime:
-            self.speed = (self.position - self.lastPosition) / self.sampleTime
+            self.speed = (self.position - self.lastPosition) /self.speedDetectRate / self.sampleTime
             self.lastPosition = self.position
             self.lastTime = currentTime
             self.pid.update(self.expectedSpeed, self.speed)
@@ -104,7 +106,7 @@ class Engine(Motor):
                 self.motorBack.ChangeDutyCycle(self.dutyCycle)
 
             if debug:
-                print(" ---- Position ---- ",  self.position, "---- PID output ----", self.pid.output)
+                print(" ---- Position ---- ",  self.position , "---- PID output ----", self.pid.output)
                 print(" ---- SetSpeed ---- ",  self.expectedSpeed, "---- Speed ---", self.speed)
                 print(" ---- dutyCycle ---- ", self.dutyCycle)
                 print(" ---- direction ---- ", self.direction)
