@@ -51,7 +51,7 @@ class Servo(Motor):
 
 class Engine(Motor):
 
-    def __init__(self, pinPWM, pinBackPWM, pinSensor, maxdc = 100, mindc = 0, initdc = 0, speedRate = 1, sampleTime = 0.02):
+    def __init__(self, pinPWM, pinBackPWM, pinSensor, maxdc = 100, mindc = 0, initdc = 0, speedRate = 1, sampleTime = 0.05):
         Motor.__init__(self, pinPWM, maxdc, mindc, initdc)
         self.pinBack = pinBackPWM
         self.pinFeedback = pinSensor
@@ -60,8 +60,9 @@ class Engine(Motor):
         self.position = 0
         self.lastPosition = 0
         self.speed = 0
-        self.expectedSpeed = 300
+        self.expectedSpeed = 0
         self.speed2dc = 0.05
+        self.turnning = -1
         # this parameter is ralated to motor's position detect error
         self.speedDetectRate = speedRate
         # set up pins
@@ -74,18 +75,33 @@ class Engine(Motor):
         # set up feedback event
         GPIO.add_event_detect(self.pinFeedback, GPIO.RISING, callback=self.feedback)
         # creat PIDController instance
-        self.pid = PIDController(2.1, 0, 0, self.sampleTime)
+        self.pid = PIDController(1, 1, 0, self.sampleTime)
         # initialize time
         self.lastTime = time.time()
         self.update()
 
+    def brake(self):
+        """ for emergency brake """
+        self.expectedSpeed = 0
+
+    def setSpeed(self, setValue):
+        """ set expected speed"""
+        self.expectedSpeed = setValue
+
     def reverse(self):
         self.direction = not self.direction
+        self.clear()
         self.update()
 
     def update(self):
         currentTime = time.time()
+        direction = self.direction
+
         if (currentTime - self.lastTime) > self.sampleTime:
+            if (self.turnning - (currentTime - self.lastTime)) > 0:
+                self.turnning -= currentTime - self.lastTime
+                direction = not self.direction
+
             self.speed = (self.position - self.lastPosition) /self.speedDetectRate / self.sampleTime
             self.lastPosition = self.position
             self.lastTime = currentTime
@@ -98,10 +114,10 @@ class Engine(Motor):
             if self.dutyCycle < self.mindc:
                 self.dutyCycle = self.mindc
 
-            if self.direction:
+            if direction:
                 self.motor.ChangeDutyCycle(self.dutyCycle)
                 self.motorBack.ChangeDutyCycle(0)
-            if not self.direction:
+            if not direction:
                 self.motor.ChangeDutyCycle(0)
                 self.motorBack.ChangeDutyCycle(self.dutyCycle)
 
@@ -119,3 +135,12 @@ class Engine(Motor):
 
     def feedback(self, channel):
         self.position += 1
+
+    def clear(self):
+        self.position = 0
+        self.lastPosition = 0
+        self.lastTime = time.time()
+
+    def turn(self, duration = 0.5):
+        """reverse a motor for duration time"""
+        self.turnning = duration

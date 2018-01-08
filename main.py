@@ -33,21 +33,53 @@ def cycle(controlSignal, servoMain, servoSub, engineMain, engineSub):
     # engine control part
     # "+" for accelerating, "r" for change direction
     # main engine mannual control
-    if controlSignal == "+" :
+    # if controlSignal == "+" :
+    #     engineMain.speedInc()
+    #     engineSub.speedInc()
+    # if controlSignal == "_":
+    #     engineMain.speedDec()
+    # if controlSignal == "R":
+    #     engineMain.reverse()
+
+    # # sub engine mannual control
+    # if controlSignal == "=" :
+    #     engineSub.speedInc()
+    # if controlSignal == "-":
+    #     engineSub.speedDec()
+
+    # for runtime control
+    # go straight and acclerate
+    if controlSignal == "w" :
         engineMain.speedInc()
         engineSub.speedInc()
-    if controlSignal == "_":
+    # slow down or go back
+    if controlSignal == "s" :
         engineMain.speedDec()
-    if controlSignal == "R":
-        engineMain.reverse()
-
-    # sub engine mannual control
-    if controlSignal == "=" :
-        engineSub.speedInc()
-    if controlSignal == "-":
         engineSub.speedDec()
+    # turn left
+    if controlSignal == "a" :
+        engineMain.turn()
+    # turn right
+    if controlSignal == "d" :
+        engineSub.turn()
+    # emergency brakeing
+    if controlSignal == "b":
+        engineMain.brake()
+        engineSub.brake()
+    # fast acclerate
+    if controlSignal == "n":
+        engineMain.setSpeed(300)
+        engineSub.setSpeed(300)
+    # reverse run
     if controlSignal == "r":
         engineSub.reverse()
+        engineMain.reverse()
+    # fast up and down
+    if controlSignal == "e":
+        servoMain.dcincrease(0.7)
+    if controlSignal == "q":
+        servoMain.dcdecrease(0.7)
+    servoSub.dutyCycle = 14.35 - servoMain.dutyCycle
 
 def getchar(Block=True):
   if Block or select.select([sys.stdin], [], [], 0.01) == ([sys.stdin], [], []):
